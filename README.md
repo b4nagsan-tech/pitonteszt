@@ -1,2 +1,3 @@
-# pitonteszt
-Ez itt a piton teszt repo
+## pitonteszt
+
+# Ez itt a piton teszt repo
